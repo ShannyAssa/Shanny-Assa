@@ -3,7 +3,8 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.Sc.+Computer+Science;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">info info info </h4>
+<h4 align="center">Forward-thinking and quick learner Computer Science graduate with solid analytical and problem solving skills.  Skilled at project planning, programming languages.
+Pro-active approach, offering great interpersonal communication skills, great work ethic, and the important ability to function well in fast-paced and deadline-driven team environments. </h4>
 <br>
 
  
@@ -32,28 +33,12 @@
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </a>
 &emsp;
-<a href="https://www.php.com" target="_blank"> 
-<img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </a>
-&emsp;
-<a href="https://www.python.org" target="_blank">
-<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-</a>
-&emsp;
-<a href="https://www.javascript.com" target="_blank"> 
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-&emsp;
-<img alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-&emsp;
-<a href="https://react.dev/" target="_blank">
-<img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 </a>
 </p>
 
- 
-
- 
 
 ### 👉 Software & Tools
 
@@ -62,17 +47,12 @@
 &emsp;
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-&emsp;
 <a href="#"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 &emsp;
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 &emsp;
 </p>
 
- 
-
- 
 
 <br/>
 
