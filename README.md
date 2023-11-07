@@ -36,6 +36,10 @@ Pro-active approach, offering great interpersonal communication skills, great wo
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </a>
+ &emsp;
+<a href="https://www.javascript.com/" target="_blank"> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</a>
 </a>
 </p>
 
